@@ -1,0 +1,5 @@
+.idea
+.vscode
+.ruff_cache
+.DS_Store
+
